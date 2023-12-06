@@ -1,3 +1,3 @@
-# sihatafnan.github.io 
+# irfankarim.github.io
 
 Personal website
