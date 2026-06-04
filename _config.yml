@@ -1,0 +1,17 @@
+# Minimal Jekyll configuration for GitHub Pages
+title: Irfan Karim
+description: Personal website
+# baseurl is supplied by the Actions workflow (--baseurl); leave empty here.
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+
+# Exclude non-site files from the build output
+exclude:
+  - push.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
